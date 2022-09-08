@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pavankthigulla
+- 🌱 I’m currently pursuing my masters from NWMSU
+- I've done an internship in the start up company named "Zemoso".
+- 💞️ I’m looking to collaborate on working with the applications of java full stack.
